@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="^v07z3cF720F()+*R0$j">strip</variable><variable id="0#}fzZ@i_eD_2.SV_z58">Item</variable><variable id="#,c_BQe6!S2^p,V$5fOV">analog read pin</variable><variable id="S=Yl@U^*!u:#}-[d!`gk">list</variable></variables><block type="device_forever" id="2Y8)_8xuN`A@no@rc!/R" x="-465" y="-53"><statement name="HANDLER"><block type="basic_show_icon" id="Bt`VS0;.ZPs@ibKxw=r_"><field name="i">IconNames.Heart</field></block></statement></block><block type="pxt-on-start" id="!tHWMG/1*$A))ytu{UXz" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="eW[I;4Lad50_[}/$5;Qm"><field name="LEDS">`
+        . . . # . 
+        . . # # . 
+        . # . # . 
+        . . # . . 
+        . . . # .
+        `</field></block></statement></block></xml>
